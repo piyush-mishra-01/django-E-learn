@@ -25,7 +25,7 @@ SECRET_KEY = '!ll0dow0#w7li)j797ve97x!s3tw6ec(r294&s3%e&nuqn72&*'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['e-learningport.herokuapp.com']
+ALLOWED_HOSTS = ['e-learningport.herokuapp.com','127.0.0.1']
 
 
 # Application definition
