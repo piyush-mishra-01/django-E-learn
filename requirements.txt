@@ -19,7 +19,7 @@ colorama==0.4.3
 defusedxml==0.6.0
 distlib==0.3.1
 dj-database-url==0.5.0
-Django==2.0.5
+Django==2.1.5
 django-allauth==0.41.0
 django-braces==1.13.0
 django-crispy-forms==1.9.0
@@ -63,6 +63,7 @@ pylint==2.4.4
 PyPDF2==1.26.0
 PySocks==1.7.1
 python-bidi==0.4.2
+python-openid==2.2.5
 python-social-auth==0.2.21
 python3-openid==3.2.0
 pytz==2018.5
